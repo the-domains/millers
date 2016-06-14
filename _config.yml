@@ -1,0 +1,28 @@
+name: Millers
+favicon: null
+layout_spectrum: 0.797932751243934
+typography_spectrum: 0.7445917772129178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.05335900350473821
+  lightness: 0.010276806773617864
+  saturation: 0.16773872706107795
+  rhythmicContrast: 0.07753933337517083
+purpose: []
