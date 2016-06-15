@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Millers]]></title>
+        <description><![CDATA[Millers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 16:30:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Green Pastures]]></title>
+            <description><![CDATA[<article><h1>Green Pastures</h1><p>Green Pastures by Brad Miller</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/046b507687c00df73b6ce4db1fa7c9a9/noop?input=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F154032635%2Fq%253D80_m%253D2000%2Fa45d9b1d0e3d5b057cedc3a66b202ef3"></article>]]></description>
+            <link>undefinedgreen-pastures/index.html</link>
+            <guid isPermaLink="false">6cdf3add-c415-44f5-8ec1-9e7db3975474</guid>
+            <pubDate>Wed, 15 Jun 2016 16:30:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
